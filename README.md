@@ -1,6 +1,6 @@
 <p align="center">
 </p align="center">
-<img src="https://github.com/z3r0xxx/z3r0xxx/blob/main/images/background.png" />
+<img src="https://github.com/z3r0xxx/z3r0xxx/blob/main/images/banner.png" />
 
 <p align="center">
 	<img src="https://badges.pufler.dev/visits/z3r0xxx/z3r0xxx"/> 
