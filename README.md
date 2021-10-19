@@ -12,7 +12,7 @@
 	I am a 2nd year student, studying at the Faculty of Information Systems and Programming 🎓 at a college at the St. Petersburg Polytechnic University 🏛. I am a passionate student who is always ready to learn and work with different technologies and fields 💡. I love to research new technologies and use them to solve real-world problems ✨. In addition, I also love to guide and mentor newbies 👨. I am deeply interested in web development and building bots on various platforms.
 </p>  
 
-<h2 align="center">Technology Stack <img src="https://github.com/z3r0xxx/z3r0xxx/blob/main/images/laptop.gif" width="50"></h2>
+<!-- <h2 align="center">Technology Stack <img src="https://github.com/z3r0xxx/z3r0xxx/blob/main/images/laptop.gif" width="50"></h2>
 <p align="center">
 	<img src="https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white"/>
 	<img src="https://img.shields.io/badge/-java-E34A86?style=flat-square&logo=java"/>
@@ -28,9 +28,9 @@
 	<img src="https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql"/>
 	<img src="https://img.shields.io/badge/-Git-black?style=flat-square&logo=git"/>
 	<img src="https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github"/>
-</p>
+</p> -->
 
-<h2 align="center">Reach me on <img src="https://media0.giphy.com/media/jqNPzdTTxQfOgOqpO4/source.gif" width="50"></h2>
+<!-- <h2 align="center">Reach me on <img src="https://media0.giphy.com/media/jqNPzdTTxQfOgOqpO4/source.gif" width="50"></h2>
 
 <p align="center">
 	<a href="mailto: ritikpr307@gmail.com">
@@ -42,7 +42,7 @@
 	<a href="https://twitter.com/ritikhere307">
 		<img src="https://img.shields.io/badge/-ritikhere307-blue?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/ritikhere307"/>
 	</a>
-</p>
+</p> -->
 
 
 <h2 align="center">
