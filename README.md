@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-	I'm a 3rd year student pursuing Master's in Computer Applications 🎓 from Guru Gobind Singh Indraprastha University 🏛. I'm a passionate learner who's always willing to learn and work across technologies and domains 💡. I love to explore new technologies and leverage them to solve real-life problems ✨. Apart from that I also love to guide and mentor newbies 👨🏻‍💻. I'm deep into Web 🕸️ Development.
+	I am a 2nd year student, studying at the Faculty of Information Systems and Programming 🎓 at a college at the St. Petersburg Polytechnic University 🏛. I am a passionate student who is always ready to learn and work with different technologies and fields 💡. I love to research new technologies and use them to solve real-world problems ✨. In addition, I also love to guide and mentor newbies 👨. I am deeply interested in web development and building bots on various platforms.
 </p>  
 
 <h2 align="center">Technology Stack <img src="https://github.com/z3r0xxx/z3r0xxx/blob/main/images/laptop.gif" width="50"></h2>
