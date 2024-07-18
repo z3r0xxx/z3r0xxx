@@ -1,3 +1,23 @@
-<center>
-  <img src="https://raw.githubusercontent.com/z3r0xxx/z3r0xxx/main/images/68747470733a2f2f7374617469632e77696b69612e6e6f636f6f6b69652e6e65742f6d696e6563726166742f696d616765732f362f36612f41786f6c6f746c735f5377696d6d696e672e6769662f7265766973696f6e2f6c61746573743f63623d3230323031323139323.webp"/>
-</center>
+### Hi there! I'm Arseny
+
+```javascript
+const about = {
+    name: 'arseny kvasov',
+    experience: {
+        curr: [
+            'machine learning researcher & software engineer @ paros center for atmospheric research',
+        ],
+        prev: [
+            'software engineer @ music and neuroimaging lab @ umass amherst',
+            'quality assurance engineer co-op @ nokia',
+            'software engineer @ pr monkey',
+            'software engineer intern @ easytry'
+        ],
+        edu: 'BS`23 and MS`24 in computer engineering @ umass amherst'
+    },
+    links: {
+        github: 'https://github.com/z3r0xxx'
+    },
+    quote: 'it is what it is. - pavel alekseevich klimov'
+}
+```
